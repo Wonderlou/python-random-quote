@@ -1,0 +1,9 @@
+{
+  "base_url": "https://api.example.com",
+  "product_id": "sku-1001",
+  "quantity": 1,
+  "max_price": 2999.0,
+  "timeout_seconds": 120,
+  "poll_interval_seconds": 2.0,
+  "auth_token_env": "PURCHASE_API_TOKEN"
+}
